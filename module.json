@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "no-more-bugged-gunner-skillbar",
+    "options": {
+        "cliName": "NMBS",
+        "guiName": "No more bugged gunner skillbar"
+    },
+    "author": "SaltyMonkey",
+    "description": "Simple module to fix bugged highlights at gunner's skill bar with full willpower after p100",
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/no-more-bugged-gunner-skillbar/main/"],
+    "supportUrl": "https://github.com/SaltyMonkey/no-more-bugged-gunner-skillbar/issues"
+}
